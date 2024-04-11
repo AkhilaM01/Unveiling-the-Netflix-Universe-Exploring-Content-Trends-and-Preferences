@@ -12,3 +12,6 @@ Interactive Exploration Dashboard: Netflix Content Trends and Popularity
 Global Tapestry of Netflix Content and Audience Insights
 
 We have also made some business implications and recommendations based on the stories of our visualization. (All included in the report)
+
+<img width="468" alt="image" src="https://github.com/AkhilaM01/Unveiling-the-Netflix-Universe-Exploring-Content-Trends-and-Preferences/assets/142704117/e52e1795-f79c-467f-8616-44b8e87fd22b">
+
